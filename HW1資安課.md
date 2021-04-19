@@ -1,4 +1,6 @@
-# ProxyLogon
+# 資訊安全導論_ProxyLogon
+### 班級:訓四子四    學號:106362532     姓名:丁凡恩
+
   ProxyLogon是指今年一月微軟存在於 Exchange Server 的安全漏洞，編號命名為「CVE-2021-26855 」及「CVE-2021-27065」，台灣的戴夫寇爾（DEVCORE）則是這次最早揭露此零日漏洞的團隊，DEVCORE 團隊稱其為「ProxyLogon」。
 
   DEVCORE 表示，團隊此次揭露的「ProxyLogon」為重大的「無需驗證的遠端程式碼執行（Pre-Auth Remote Code Execution， Pre-Auth RCE）零日漏洞，駭客只要發現未修補Exchange漏洞的伺服器即可發動攻擊，一旦成功駭入Exchange環境就會植入web shell程式，這種網頁程式有如後門，讓駭客得以長期從遠端控制受害組織的Exchange Server，得以繞過身份驗證步驟，驅使系統管理員協助執行惡意文件或執行指令，進而觸發更廣泛的攻擊，包括竊取資訊、執行任意程式碼、或在內部網路橫向移動，包括研究機構、智庫、警察消防局、地方政府、銀行、電信業者或中小企業，全球受害者也可能來到數十萬。
