@@ -1,5 +1,4 @@
 # 資訊安全導論_ProxyLogon
-### 班級:訓四子四    學號:106362532     姓名:丁凡恩
 
   ProxyLogon是指今年一月微軟存在於 Exchange Server 的安全漏洞，編號命名為「CVE-2021-26855 」及「CVE-2021-27065」，台灣的戴夫寇爾（DEVCORE）則是這次最早揭露此零日漏洞的團隊，DEVCORE 團隊稱其為「ProxyLogon」。
 
